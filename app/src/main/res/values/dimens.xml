@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_padding">49dp</dimen>
+    <dimen name="text_size">45sp</dimen>
+    <dimen name="editText_size">18sp</dimen>
+    <dimen name="btn_size">26sp</dimen>
+    <dimen name="top_margin">49dp</dimen>
+    <dimen name="left_margin">49dp</dimen>
+    <dimen name="btn_width">293dp</dimen>
+    <dimen name="btn_height">47dp</dimen>
+    <dimen name="bottom_margin">14dp</dimen>
+    <dimen name="start_padding">10dp</dimen>
+
+</resources>
+
